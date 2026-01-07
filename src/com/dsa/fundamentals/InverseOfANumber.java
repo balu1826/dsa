@@ -1,4 +1,4 @@
-package myDsa.beginer.fundamentals;
+package com.dsa.fundamentals;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
