@@ -1,4 +1,4 @@
-package myDsa.beginer.fundamentals;
+package com.dsa.fundamentals;
 
 public class Pattern1 {
 
