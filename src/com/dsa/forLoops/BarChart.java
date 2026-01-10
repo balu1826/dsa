@@ -1,4 +1,4 @@
-package com.dsa.fundamentals;
+package com.dsa.forLoops;
 
 public class BarChart {
 
