@@ -1,8 +1,8 @@
-package com.dsa.fundamentals;
+package com.dsa.dataStructures;
 
 import java.util.Stack;
 
-public class NextGreaterElement {
+public class Stack_NextGreaterElement {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -31,6 +31,7 @@ public class NextGreaterElement {
 		int ind=arr.length-2;
 		stack.push(arr[arr.length-1]);
 		for(int i=arr.length-2;i>=0;i--) {
+			//Pop all the items which are less than the current element
 			if(stack.size()>0&&arr[i]>stack.peek()) {
 				while(stack.size()>0&&arr[i]>stack.peek()) {
 					stack.pop();
