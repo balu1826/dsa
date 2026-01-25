@@ -1,6 +1,6 @@
 package com.dsa.fundamentals;
 
-public class Problem15CelebrityProblem {
+public class Problem17CelebrityProblem {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
