@@ -1,7 +1,7 @@
 package com.dsa.fundamentals;
 
 import java.util.Stack;
-
+//Partially done due to unclear test cases from the playlist
 public class Problem18SmallestNumberPattern {
 
 	public static void main(String[] args) {
